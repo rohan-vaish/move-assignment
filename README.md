@@ -13,3 +13,8 @@ To run my application project I have used the XCode simulator with iPhone 14 Pro
 As discussed, due to my first time working on flutter I could work on the responsiveness of the UI. 
 
 I have made some modification to UI as well according to what I think would make things better. 
+
+## Project 
+
+The main code of the application lies under the folder /lib.
+Some dummy json responses are also stored in the folder /jsonData and some images under /assets.
