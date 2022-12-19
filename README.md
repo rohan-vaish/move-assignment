@@ -1,16 +1,15 @@
-# move
+# move - Flutter Application
 
-A new Flutter project.
+Move Assignement Submission
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+AS per the given assignemnt I have complete the coding and this would by official submission for the role of Forntend Engineer at MOVE. 
 
-A few resources to get you started if this is your first Flutter project:
+## Mobile Application 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run my application project I have used the XCode simulator with iPhone 14 Pro Max. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As discussed, due to my first time working on flutter I could work on the responsiveness of the UI. 
+
+I have made some modification to UI as well according to what I think would make things better. 
