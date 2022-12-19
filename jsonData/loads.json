@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "price" : "₹1000",
+        "status" : 1,
+        "pickupLoc" : "Koramangla 1st Block",
+        "pickupTime": "10:20 pm",
+        "pickupDate": "18 Dec 2022",
+        "dropLoc" : "Brookefield",
+        "dropTime" : null,
+        "dropDate": null
+    },
+    {
+        "id": 2,
+        "price" : "₹300",
+        "status" : 3,
+        "pickupLoc" : "Whitefield",
+        "pickupTime": "10:20 am",
+        "pickupDate": "18 Dec 2022",
+        "dropLoc" : "ITI Layout",
+        "dropTime" : "5:00 pm",
+        "dropDate": "18th Dec 2022"
+    },
+    {
+        "id": 3,
+        "price" : "₹400",
+        "status" : 2,
+        "pickupLoc" : "Marathalli",
+        "pickupTime": "10:00 am",
+        "pickupDate": "18 Dec 2022",
+        "dropLoc" : "HSR Layout",
+        "dropTime" : "5:00 pm",
+        "dropDate": "18 Dec 2022"
+    },
+    {
+        "id": 4,
+        "price" : "₹500",
+        "status" : 2,
+        "pickupLoc" : "Koramangla 1st Block",
+        "pickupTime": "10:00 am",
+        "pickupDate": "13 Dec 2022",
+        "dropLoc" : "ITI Layout",
+        "dropTime" : null,
+        "dropDate": null
+    }
+    
+    
+]
